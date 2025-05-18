@@ -1,0 +1,4 @@
+LIBRO_FISICO;LIBRO-001;Cien Años de Soledad;true;0;Gabriel García Márquez;432
+LIBRO_DIGITAL;LIBRO-002;Don Quijote de la Mancha;true;0;Miguel de Cervantes;PDF;8.5
+REVISTA;REVISTA-001;National Geographic;true;0;National Geographic Society;253;2023
+LIBRO_FISICO;004;En las montanas de la locura;true;5;HP Lovecraft;250
